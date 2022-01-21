@@ -27,3 +27,8 @@ h6 {
 h6 a {
     color: aquamarine;
 }
+
+footer p {
+    color: gray;
+    text-align: right;
+}
