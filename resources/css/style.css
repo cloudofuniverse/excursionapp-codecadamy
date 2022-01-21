@@ -15,6 +15,11 @@ h2 {
     font-weight: 300;
 }
 
+#description {
+    font-size: 21px;
+    color: gray;
+}
+
 h6 {
     font-size: 16px;
 }
